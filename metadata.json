@@ -1,0 +1,6 @@
+{
+  "name": "Photo Frame",
+  "description": "Create creative multi-photo collages (2 to 8 photos) with custom frames, backgrounds, borders, photo filters (B&W, Sepia, Vintage), and interactive sticker overlays with resize, rotation, and repositioning for social media sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
